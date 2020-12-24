@@ -1,6 +1,8 @@
 This keyboard layout is based on a US-English keyboard and uses the ALT-GR key 
 to enter characters for German, French and Swedish.
 
+ALT-GR is the right hand ALT key.
+
 The layout is shown in the following screenshots.
 
 Basic layout
