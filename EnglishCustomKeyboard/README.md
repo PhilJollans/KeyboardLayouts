@@ -1,5 +1,5 @@
 # Custom English keyboard
-#### Support for German, French and Swedish characters
+### Support for German, French and Swedish characters
 
 This keyboard layout is based on a US-English keyboard and uses the ALT-GR key 
 to enter characters for German, French and Swedish.

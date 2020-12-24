@@ -1,5 +1,5 @@
 # Custom Arabic keyboard
-#### Support for Dagger Alif
+### Support for Dagger Alif
 
 This keyboard layout is based on a Arabic (Egypt) keyboard and uses the ALT-GR key 
 to enter additinal characters.
