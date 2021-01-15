@@ -6,11 +6,11 @@ to enter additinal characters.
 
 ALT-GR is the right hand ALT key.
 
-| Character Name    | Arabic character               | Key combination (English Keyboard) |
-|-------------------|--------------------------------|------------------------------------|
-| Dagger Alif       | <font size="6">&#1648;</font>  | ALT-GR + J                         |    
-| Shadda with Kasra | <font size="6">&#64610;</font> | ALT-GR + Q                         |
-| Alif Wasla        | <font size="6">&#1649;</font>  | ALT-GR + H                         |
+| Character Name    | Arabic character                                          | Key combination (English Keyboard) |
+|-------------------|-----------------------------------------------------------|------------------------------------|
+| Dagger Alif       | <font size="6">&#1648;</font>                             | ALT-GR + J                         |    
+| Shadda with Kasra | <font size="6">&#64610;</font> (Doesn't render on Github) | ALT-GR + Q                         |
+| Alif Wasla        | <font size="6">&#1649;</font>                             | ALT-GR + H                         |
 
 The layout is shown in the following screenshot.
 
